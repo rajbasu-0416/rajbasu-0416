@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hrithik Basu
-- 👀 A front end developer turned into Cyber Security Enthusiast
+- 👀 An IAM Analyst getting into RPA Development
 - 🌱 Security Analyst
 
 <!---
