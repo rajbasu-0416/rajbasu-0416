@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hrithik Basu
-- 👨‍💻 RPA Developer | UiPAth
+- 👨‍💻 RPA Developer | UiPath
 - 🌱 Security Analyst
 
 <!---
