@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hrithik Basu
-- 👨‍💻 An IAM Analyst getting into RPA Development
+- 👨‍💻 RPA Developer | UiPAth
 - 🌱 Security Analyst
 
 <!---
